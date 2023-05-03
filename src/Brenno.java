@@ -1,6 +1,6 @@
 import java.util.Arrays;
-import java.util.Collections;
-public class Main {
+
+public class Brenno {
     public static void main(String[] args) {
         String[] Animais = {"Tartaruga, Aguia, Leão"};
         for (String i : Animais) {
